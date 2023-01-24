@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/minimal-react-boilerplate/static/js/main.a33cecb6.js",
+    "index.html": "/minimal-react-boilerplate/index.html",
+    "main.a33cecb6.js.map": "/minimal-react-boilerplate/static/js/main.a33cecb6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a33cecb6.js"
+  ]
+}
